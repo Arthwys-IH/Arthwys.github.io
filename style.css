@@ -1,0 +1,50 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: khaki;
+}
+
+h1 {
+    text-align: center;
+    color:black;
+}
+
+h2 {
+    text-align:center;
+    color:brown;
+}
+
+h3 {
+    text-align: left;
+    color:indigo 
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+}
+
+thead {
+    background-color: darkgoldenrod;
+}
+
+table {
+    border: 2px salmon;
+    border-spacing: 10px;
+    width: 400px;
+    margin: 0 auto;
+}
+
+th {
+    text-align: left;
+}
+
+th, td {
+    padding: 10px; border-bottom: 15px;
+    background-color: dodgerblue;
+    background-clip: padding-box;
+}
+
+.tag {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: antiquewhite;
+}
